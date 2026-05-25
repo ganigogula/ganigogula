@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Python · Django · React · JavaScript
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-8ul9.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-8ul9.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganigogula)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ganeshgogula6@gmail.com)
 
@@ -78,8 +78,8 @@ I'm a passionate **Full Stack Developer** with hands-on experience building web 
 I'm actively looking for **Full Stack / Backend / Frontend Developer** opportunities. If you're hiring or want to collaborate, feel free to reach out!
 
 📧 **Email:** ganeshgogula6@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ganigogula)  
-🌐 **Portfolio:** [ganigogula.github.io/My-Portfolio](https://ganigogula.github.io/My-Portfolio/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/ganigogula)  
+🌐 **Portfolio:** (https://ganigogula.github.io/My-Portfolio/)
 
 ---
 
