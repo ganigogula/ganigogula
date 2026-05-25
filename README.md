@@ -79,7 +79,7 @@ I'm actively looking for **Full Stack / Backend / Frontend Developer** opportuni
 
 📧 **Email:** ganeshgogula6@gmail.com  
 💼 **LinkedIn:** (https://www.linkedin.com/in/ganigogula)  
-🌐 **Portfolio:** (https://ganigogula.github.io/My-Portfolio/)
+🌐 **Portfolio:** (https://my-portfolio-8ul9.onrender.com)
 
 ---
 
